@@ -15,6 +15,7 @@ pg = st.navigation(
         "Pages Navegation": [
             st.Page("./pages/1_home.py", title="Home", icon="👋"),
             st.Page("./pages/2_stock_analysis.py", title="Stock Analysis", icon="🔥"),
+            st.Page("./pages/3_fixed_income.py", title="Fixed Income", icon="🔥"),
         ]
     }
 )
